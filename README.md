@@ -35,11 +35,8 @@ Notificações nos horários definidos.
  
 Marcação de remédio como "tomado".
  
-Armazenamento local usando TinyDB.
+Armazenamento local usando TinyDB
  
- 
- 
-
  
 🔧 Requisitos Não Funcionais
  
@@ -52,11 +49,13 @@ Funcionalidade offline para recursos básicos.
 Tempo de resposta rápido entre telas (até 2s).
  
 Estrutura modular do projeto para facilitar manutenção.
- 
- 
- 
 
- 
+O Usuário necessitará: 
+De internet para acesso da plataforma (ainda a ser definida)
+
+Aparelho android/IOS/pc para ter acesso ao conteúdo
+
+  
 🧩 Divisão de Tarefas
  
 Ana Laura: Criará o layout do app, cuidará do design da interface (cores, tamanhos, organização) e da estrutura de dados que será salva no TinyDB.
