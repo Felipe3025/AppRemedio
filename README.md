@@ -36,6 +36,18 @@ Notificações nos horários definidos.
 Marcação de remédio como "tomado".
  
 Armazenamento local usando TinyDB
+
+Interface simples:
+
+Botões grandes, textos claros.
+
+Linguagem fácil de entender (já que pode ser usado por idosos).
+
+Confirmação de uso:
+
+Usuário marca quando tomou o remédio.
+
+Histórico para mostrar se esqueceu alguma dose.
  
  
 🔧 Requisitos Não Funcionais
@@ -55,7 +67,12 @@ De internet para acesso da plataforma (ainda a ser definida)
 
 Aparelho android/IOS/pc para ter acesso ao conteúdo
 
-  
+Ter conhecimento de programação e funcionalidade de programação em blocos.
+
+👉 Resumindo:
+Para um usuário conseguir usar bem, ele precisa cadastrar seus dados, cadastrar o remédio, receber lembretes, confirmar a dose e acompanhar o histórico.
+No MIT App Inventor, isso se resolve com TinyDB, Clock, Notifier e boas telas organizadas.
+
 🧩 Divisão de Tarefas
  
 Ana Laura: Criará o layout do app, cuidará do design da interface (cores, tamanhos, organização) e da estrutura de dados que será salva no TinyDB.
